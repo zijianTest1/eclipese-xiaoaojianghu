@@ -10,6 +10,7 @@ public class Miji {
 				System.out.println("葵花宝典！");
 				System.out.println("独孤九剑！");
 				System.out.println("葵花宝典！");
+				System.out.println("吸星大法！");
 			}
 	
 }
